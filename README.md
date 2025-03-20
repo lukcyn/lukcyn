@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Łukasz Cyndzer</h1>
 <h3 align="center">A junior backend developer</h3>
 
-- 👨‍💻 I'm currently working at **Nokia**
+- 👨‍💻 I'm currently working at **Iteratec**
 
 - 🎓 I’m studying **Applied Computer Science at Wroclaw University of Science and Technology**
 
